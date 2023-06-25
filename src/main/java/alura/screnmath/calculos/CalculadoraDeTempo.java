@@ -1,7 +1,5 @@
 package alura.screnmath.calculos;
 
-import alura.screnmath.entities.Filmes;
-import alura.screnmath.entities.Serie;
 import alura.screnmath.entities.Titulo;
 
 public class CalculadoraDeTempo {
