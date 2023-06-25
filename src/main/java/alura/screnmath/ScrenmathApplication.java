@@ -59,7 +59,7 @@ public class ScrenmathApplication {
 		filmeDoPaulo.setDuracaoEmMinutos(200);
 		// exemplo:
 		//  filmeDoPaulo.setNome("Dogville");
-		//  filmeDoPaulo.setAnoDeLancamento(2003);
+		//  filmeDoPaulo.setAnoDeLancamento(2003)
 		filmeDoPaulo.avalia(10);
 
 		ArrayList<Filmes> listaDeFilmes = new ArrayList<>();
